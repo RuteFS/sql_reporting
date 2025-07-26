@@ -3,7 +3,7 @@
 This project simulates a **reporting workflow for a healthcare provider**, designed to showcase SQL skills for data extraction, transformation, and reporting.
 
 It includes:
-- Sample datasets (`patients`, `appointments`, `treatments`)
+- Sample datasets (patients, appointments, treatments)
 - SQL scripts to create and populate tables
 - Reporting queries to generate **monthly summaries** (active patients, treatments, revenue)
 - Data quality checks (handling missing or duplicate data)
