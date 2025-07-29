@@ -45,7 +45,7 @@ Scripts are organized to reflect the ETL process:
 - Docker: Used to run a MySQL container for local database setup.
 - DBeaver: Configured to connect to the MySQL container for executing scripts and managing the database.
 - Git & GitHub: Version control and collaboration.
-
+  
 ---
 
 ## **Skills Demonstrated**
@@ -58,11 +58,6 @@ Scripts are organized to reflect the ETL process:
 - **Version Control**
 - **Operational and analytical reporting**
 
-- **Tools Used**:
-  - **Docker** (for MySQL container)
-  - **DBeaver** (for SQL scripting)
-  - **Git/GitHub** (for version control and portfolio hosting)
-  - 
 ---
 
 ## **How to Run the Project**
